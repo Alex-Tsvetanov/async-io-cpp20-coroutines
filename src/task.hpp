@@ -1,6 +1,6 @@
 // task.hpp - the smallest coroutine type this talk needs.
 //
-// Written for the DEV.BG C/C++ talk, 28 Oct 2026. Public domain as far as the author is concerned.
+// Written for the DEV.BG C/C++ talk, 28 Oct 2026. MIT licensed, see LICENSE.
 //
 // Deliberately fire-and-forget: no result, no continuation, no cancellation.
 // A real framework needs all three. A 50-minute talk does not, and every extra

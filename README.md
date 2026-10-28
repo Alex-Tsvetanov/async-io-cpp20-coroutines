@@ -228,6 +228,11 @@ Each one is a fair question, and the honest answer is that it would not fit on a
 - *Modern C++ Publish/Subscribe Pattern*, ICEST 2025, with Assoc. Prof. Ivan Stankov.
   [DOI](https://doi.org/10.1109/icest66328.2025.11098436).
 
+## License
+
+The code is under the [MIT License](LICENSE). The slides are shared for reference: the
+template, the DEV.BG logo and the partner logos belong to their owners.
+
 ## Contact
 
 [linkedin.com/in/alex-tsvetanov](https://www.linkedin.com/in/alex-tsvetanov) ·
