@@ -1,0 +1,7 @@
+echo
+echo.exe
+naive
+naive.exe
+build/
+server.log
+compile_commands.json
